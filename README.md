@@ -40,3 +40,7 @@ A command-line shopping application written in the **C programming language**, d
 ---
 
 ## 🖥️ How to Run
+```bash
+gcc ShoppingApp15d.c -o main.exe
+main
+```
